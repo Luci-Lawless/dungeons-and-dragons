@@ -1,0 +1,7 @@
+Gradiente 
+azul/cinza:linear-gradient(to right, #dae3e7 0%, #dae3e7 4%, #b6c7cd 88%, #b6c7cd 91%)
+
+
+Fonte:
+
+
